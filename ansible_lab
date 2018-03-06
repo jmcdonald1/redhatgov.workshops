@@ -19,3 +19,5 @@ User	UserName	  Password	    Ansible Tower
 18	    ec2-user	  redhat!@#	    https://workshop.tower.18.lab-emergent360.com:8888/wetty/ssh/ec2-user
 19	    ec2-user	  redhat!@#	    https://workshop.tower.19.lab-emergent360.com:8888/wetty/ssh/ec2-user
 20	    ec2-user	  redhat!@#	    https://workshop.tower.20.lab-emergent360.com:8888/wetty/ssh/ec2-user
+
+Valut password: publicsector!@#
